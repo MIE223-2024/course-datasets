@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Scarborough Health Network - Centenary Hospital", "proerpty_type": "hospital" }, "geometry": { "type": "Point", "coordinates": [ -79.204809507122491, 43.780254515806355 ] } },
+{ "type": "Feature", "properties": { "name": "Centre For Addiction and Mental Health - Queen Street Site", "proerpty_type": "hospital" }, "geometry": { "type": "Point", "coordinates": [ -79.418636585064618, 43.642999439390984 ] } },
+{ "type": "Feature", "properties": { "name": "Sunnybrook Health Sciences Centre - Bayview Campus", "proerpty_type": "hospital" }, "geometry": { "type": "Point", "coordinates": [ -79.37479438480257, 43.722703238572585 ] } },
+{ "type": "Feature", "properties": { "name": "Toronto Western Hospital", "proerpty_type": "hospital" }, "geometry": { "type": "Point", "coordinates": [ -79.405482222309374, 43.653506525649682 ] } },
+{ "type": "Feature", "properties": { "name": "St. Joseph's Health Centre", "proerpty_type": "hospital" }, "geometry": { "type": "Point", "coordinates": [ -79.450057750140815, 43.640299328207902 ] } },
+{ "type": "Feature", "properties": { "name": "Michael Garron Hospital", "proerpty_type": "hospital" }, "geometry": { "type": "Point", "coordinates": [ -79.324932120579092, 43.689946063604445 ] } },
+{ "type": "Feature", "properties": { "name": "Etobicoke General Hospital", "proerpty_type": "hospital" }, "geometry": { "type": "Point", "coordinates": [ -79.597993477981575, 43.729241555542046 ] } },
+{ "type": "Feature", "properties": { "name": "Humber River Hospital", "proerpty_type": "hospital" }, "geometry": { "type": "Point", "coordinates": [ -79.48860254313233, 43.723419345643634 ] } },
+{ "type": "Feature", "properties": { "name": "Scarborough Health Network - General Campus", "proerpty_type": "hospital" }, "geometry": { "type": "Point", "coordinates": [ -79.247788573855331, 43.75652904681985 ] } },
+{ "type": "Feature", "properties": { "name": "Scarborough Health Network - Birchmount Hospital", "proerpty_type": "hospital" }, "geometry": { "type": "Point", "coordinates": [ -79.309362622388974, 43.801565887512453 ] } },
+{ "type": "Feature", "properties": { "name": "North York General Hospital", "proerpty_type": "hospital" }, "geometry": { "type": "Point", "coordinates": [ -79.362716793003472, 43.769099378593403 ] } },
+{ "type": "Feature", "properties": { "name": "Toronto General Hospital", "proerpty_type": "hospital" }, "geometry": { "type": "Point", "coordinates": [ -79.388152263969715, 43.658648230547996 ] } },
+{ "type": "Feature", "properties": { "name": "Hospital for Sick Children", "proerpty_type": "hospital" }, "geometry": { "type": "Point", "coordinates": [ -79.38756609552739, 43.657274147468584 ] } },
+{ "type": "Feature", "properties": { "name": "Mount Sinai Hospital", "proerpty_type": "hospital" }, "geometry": { "type": "Point", "coordinates": [ -79.390320536595041, 43.657451155712295 ] } },
+{ "type": "Feature", "properties": { "name": "Centre For Addiction and Mental Health - College Street Site", "proerpty_type": "hospital" }, "geometry": { "type": "Point", "coordinates": [ -79.399282294492394, 43.659007686133705 ] } },
+{ "type": "Feature", "properties": { "name": "St. Michael's Hospital", "proerpty_type": "hospital" }, "geometry": { "type": "Point", "coordinates": [ -79.37780577424067, 43.653635077180986 ] } }
+]
+}
